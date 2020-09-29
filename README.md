@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm player0010
 
 <!--
 **xiaokang00010/xiaokang00010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 看我看我，大家注意了，我要跟大家宣布个事，我是个**傻逼**!
