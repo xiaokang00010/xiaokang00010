@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 
 ### 看我看我，大家注意了，我要跟大家宣布个事，我是个**傻逼**!
+
+<a href="https://github.com/xiaokang00010">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=xiaokang00010" />
+</a>
+<a href="https://github.com/xiaokang00010">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokang00010" />
+</a>
