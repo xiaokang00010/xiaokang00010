@@ -1,4 +1,4 @@
-### Hi I'm player0010
+### Hi I'm xiaokang00010
 
 <!--
 **xiaokang00010/xiaokang00010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### 看我看我，大家注意了，我要跟大家宣布个事，我是个**傻逼**!
+[Here](https://xiaokang00010.top:11452/main)
 
 <a href="https://github.com/xiaokang00010">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=xiaokang00010" />
