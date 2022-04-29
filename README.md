@@ -1,4 +1,17 @@
-### Hi I'm xiaokang00010
+Hello, I'm Jerry Chou (xiaokang00010)!
+
+こんにちは、僕は「 Jerry　Chou (Eikou Syuu) 」です！
+
+你好，我是Jerry Chou (xiaokang00010)!
+
+Neiheu, ngo hei Jerry Chou (Zau Winghong)!
+
+I'm a developer on programming languages, but sometimes I will make some insteresting things too.
+
+Just like any otherone, I'm not famous and I'm just a junior high school student.
+And my favourite sentence is **Till I saw the ordinary was the only answer.**
+It reminded me I'm just one of billions of ordinary persons.
+I'm not good at talking with others, and I cannot do well in my study either.
 
 <!--
 **xiaokang00010/xiaokang00010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
