@@ -38,5 +38,3 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokang00010" />
 </a>
 
-
-Somethings I want to say: <del>Ngo zungyi zyuengyuying</del>
