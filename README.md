@@ -33,3 +33,4 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokang00010" />
 </a>
 
+![Xiaokang00010IsAShabi](https://count.getloli.com/get/@Xiaokang00010IsAShabi)
