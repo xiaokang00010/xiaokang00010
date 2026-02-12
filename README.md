@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 [NAS](http://www.xiaokang00010.top:11451/main) · [Bilibili](https://space.bilibili.com/151235443) · [Blog](https://xiaokang00010.top/) · [OJ](http://www.xiaokang00010.top:5914/)
 
 <a href="https://github.com/xiaokang00010">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=xiaokang00010" />
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaokang00010" />
 </a>
 <a href="https://github.com/xiaokang00010">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokang00010" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xiaokang00010" />
 </a>
 
 ![Xiaokang00010IsAShabi](https://count.getloli.com/get/@Xiaokang00010IsAShabi)
